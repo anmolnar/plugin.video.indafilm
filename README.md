@@ -1,6 +1,6 @@
 # plugin.video.indafilm
  
-IndaFilm plugin for Kodi
+IndaFilm video add-on for Kodi
 
 www.indafilm.hu
 
